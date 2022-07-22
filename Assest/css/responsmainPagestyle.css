@@ -1,0 +1,596 @@
+@media screen and (max-width: 1100px) and (min-width: 461px){
+
+
+    .home-hero {
+        width: 87%;
+    }
+
+    .tables {
+        margin: -20.8rem 1.6rem;
+    }
+
+    .comparison-chart .title {
+        margin-top: -409px;
+    }
+
+    .all-hero-content{
+        position: relative;
+        top: -3rem;
+    }
+    .carousel-featured-nanodegrees .school-header .school-title {
+        font-size: 0.852rem;
+    }
+    .carousel-featured-nanodegrees .schools-header .schools {
+        width: 73%;
+        margin-left: 8rem;
+    }
+    #slide-right-container {
+        margin-left: 79.5%;
+    }
+    .carousel-featured-nanodegrees .schools .carousel__pre {
+        left: 0.575rem;
+    }
+    .benifit-card-item .card {
+        width: 20.75rem;
+    }
+    .benfit-card-ul{
+        margin-left: 10rem;
+    }
+    .student-story-card .card {
+        width: 19.5rem;
+    }
+}
+
+@media screen and (max-width: 964px) and (min-width: 461px){
+
+    .image-snap-nav {
+        position: relative;
+        top: 2.5rem;
+        left: 1rem;
+    }
+    .header-logo-mob2 {
+        float: left;
+        display: block;
+        margin-right: .84034%;
+        width: 20.16807%;
+        position: relative;
+        top: 3%;
+        left: 48%;
+        transform: translateY(-10%);
+    }
+    .home-hero {
+        width: 108%;
+    }
+    .comparison-chart {
+        margin-top: 21rem;
+        margin-left: 0rem;
+        zoom: 135%;
+    }
+    .tables {
+        margin: -20.8rem 1.9rem;
+    }
+
+    .comparison-chart .title {
+        margin-top: -390px;
+        margin-right: 9rem;
+    }
+
+    .all-hero-content {
+        position: relative;
+        top: -7rem;
+        zoom: 100%;
+    }
+
+    .carousel-x-small {
+        margin: 33rem auto;
+    }
+
+    .col-gray {
+        width: 170px;
+    }
+    .col-blue {
+        width: 170px;
+    }
+    .featured-nanodegrees .school-header li.school {
+        min-width: 9rem;
+    }
+    .carousel-featured-nanodegrees .school-header .school-title {
+        font-size: 0.852rem;
+    }
+    .carousel-featured-nanodegrees .schools-header .schools {
+        width: 78%;
+        margin-left: 8rem;
+    }
+    .carousel-featured-nanodegrees .schools .carousel__pre {
+        left: 2.575rem;
+    }
+    .benefit-cards {
+        background-color: #fff;
+        margin-top: -29rem;
+    }
+    .student-story-card .card {
+        width: 17.5rem;
+        height: 27.5rem;
+    }
+}
+
+@media screen and (max-width: 775px) and (min-width: 461px){
+    .all-hero-content {
+        position: relative;
+        top: -7rem;
+        zoom: 85%;
+        margin-left: 1rem;
+    }
+
+    .comparison-chart .title {
+        margin-top: -380px;
+        margin-right: 5rem;
+    }
+    .tables {
+        margin: -19.8rem 1.9rem;
+    }
+    .fd-card__header-title{
+        display: none;
+    }
+    .carousel-featured-nanodegrees .schools-header .schools {
+        width: 78%;
+        margin-left: 8rem;
+    }
+    .benifit-card-item .card {
+        width: 17.75rem;
+    }
+    .benfit-card-ul {
+        margin-left: 7rem;
+    }
+    .student-story-card .card {
+        width: 13.5rem;
+        height: 27.5rem;
+    }
+    .hidden-md-up{
+        display: block;
+    }
+    .schools-up{
+        display: block;
+    }
+    .school-header{
+        display: none;
+    }
+    .benifit-card-item .card {
+        width: 18.75rem;
+    }
+    .benfit-card-ul {
+        margin-left: 11rem;
+    }
+    .student-story-card .card {
+        width: 13.5rem;
+        height: 27.5rem;
+    }
+    .carousel-featured-nanodegrees .schools-up {
+        padding-left: 0;
+        position: relative;
+    }
+    .carousel-featured-nanodegrees .schools-up .school-up {
+        list-style: none;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile {
+        padding: .75rem .875rem;
+        text-transform: uppercase;
+        border-bottom: .0625rem solid #c8cdd2;
+        position: relative;
+        margin-bottom: 0;
+        font-size: .875rem;
+        letter-spacing: .0475rem;
+        line-height: 1.1875rem;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile:after {
+        content: "+";
+        color: #02b3e4;
+        display: block;
+        position: absolute;
+        font-size: 1.6875rem;
+        top: .75rem;
+        right: 24px;
+        font-weight: 400;
+        transition: all .3s ease;
+    }
+    .schools-header{
+        display: none !important;
+    }
+    .cards {
+        display: block;
+        margin-top: 1rem;
+        margin-left: 14rem;
+
+    }
+    .fd-card__header {
+        padding: 3rem 1.5rem;
+    }
+    .school-up{
+        display: block;
+    }
+    .carousel-up{
+        display: block;
+    }
+
+}
+@media screen and (max-width: 685px) and (min-width: 461px){
+
+    .comparison-chart .title {
+        margin-top: -380px;
+        margin-right: 2rem;
+    }
+    .tables {
+        margin: -19.8rem 1.9rem;
+    }
+    .carousel-featured-nanodegrees .schools-header .schools {
+        width: 78%;
+        margin-left: 8rem;
+    }
+    .hidden-md-up{
+        display: block;
+    }
+    .schools-up{
+        display: block;
+    }
+    .school-header{
+        display: none;
+    }
+    .benifit-card-item .card {
+        width: 18.75rem;
+    }
+    .benfit-card-ul {
+        margin-left: 11rem;
+    }
+    .student-story-card .card {
+        width: 13.5rem;
+        height: 27.5rem;
+    }
+    .carousel-featured-nanodegrees .schools-up {
+        padding-left: 0;
+        position: relative;
+    }
+    .carousel-featured-nanodegrees .schools-up .school-up {
+        list-style: none;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile {
+        padding: .75rem .875rem;
+        text-transform: uppercase;
+        border-bottom: .0625rem solid #c8cdd2;
+        position: relative;
+        margin-bottom: 0;
+        font-size: .875rem;
+        letter-spacing: .0475rem;
+        line-height: 1.1875rem;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile:after {
+        content: "+";
+        color: #02b3e4;
+        display: block;
+        position: absolute;
+        font-size: 1.6875rem;
+        top: .75rem;
+        right: 24px;
+        font-weight: 400;
+        transition: all .3s ease;
+    }
+    .schools-header{
+        display: none !important;
+    }
+    .cards {
+        display: block;
+        margin-top: 1rem;
+        margin-left: 11rem;
+
+    }
+    .fd-card__header {
+        padding: 3rem 1.5rem;
+    }
+    .school-up{
+        display: block;
+    }
+    .carousel-up{
+        display: block;
+    }
+    .carousel-x-small {
+        margin: 19rem auto;
+    }
+}
+@media screen and (max-width: 622px) and (min-width: 220px){
+
+    
+    .home-hero {
+        width: 0%;
+        margin-left: -3rem;
+        height: 17rem;
+    }
+
+    .carousel-inner {
+        background: radial-gradient(circle,#0a2a37 0,#030b0e 100%);
+    }
+    .all-hero-content {
+        position: relative;
+        top: -9rem;
+        zoom: 82%;
+        margin-left: 1rem;
+        text-align: center;
+    }
+    .hero-title p {
+        font-size: 30px;
+        margin: -28.5% 0% 0% -2%;
+    }
+
+    .hero-pragraf p {
+        font-size: 19px;
+        line-height: 35px;
+        width: 100%;
+        margin: 6.5% 0% 0% -36%;
+    }
+
+    .hero-pragraf{
+        margin-left: 12rem;
+        width: 100%;
+    }
+    .hero-btn button {
+       
+        width: 32.75rem;
+        margin: 2% 0% 0% -1%;
+        font-size: 1.5rem;
+    }
+    .hero-pragraf-und-btn, .her-partner-list{
+        display: none;
+    }
+    .tables {
+        margin: -15.8rem 1.9rem;
+        zoom: 90%;
+    }
+    .comparison-chart{
+        margin-top: 19rem;
+    }
+    .comparison-chart .title {
+        margin-top: -408px;
+        margin-right: 0rem;
+        zoom: 78%;
+    }
+
+    .hidden-md-up{
+        display: block;
+    }
+    .schools-up{
+        display: block;
+    }
+    .school-header{
+        display: none;
+    }
+    .benifit-card-item .card {
+        width: 18.75rem;
+    }
+    .benfit-card-ul {
+        margin-left: 9rem;
+    }
+    .student-stories ul li {
+        width: 59.20339%;
+    }
+    .student-story-card .card {
+        margin-top: 2rem;
+        margin-right: -2.5rem;
+        width: 21.5rem;
+        height: 22.5rem;
+    }
+    .carousel-x-small {
+        margin: 19rem auto;
+    }
+    .carousel-featured-nanodegrees .schools-up {
+        padding-left: 0;
+        position: relative;
+    }
+    .carousel-featured-nanodegrees .schools-up .school-up {
+        list-style: none;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile {
+        padding: .75rem .875rem;
+        text-transform: uppercase;
+        border-bottom: .0625rem solid #c8cdd2;
+        position: relative;
+        margin-bottom: 0;
+        font-size: .875rem;
+        letter-spacing: .0475rem;
+        line-height: 1.1875rem;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile:after {
+        content: "+";
+        color: #02b3e4;
+        display: block;
+        position: absolute;
+        font-size: 1.6875rem;
+        top: .75rem;
+        right: 24px;
+        font-weight: 400;
+        transition: all .3s ease;
+    }
+    .schools-header{
+        display: none !important;
+    }
+    .cards {
+        display: block;
+        margin-top: 1rem;
+        margin-left: 4.5rem;
+    }
+    .fd-card__header {
+        padding: 3rem 1.5rem;
+    }
+    .school-up{
+        display: block;
+    }
+    .carousel-up{
+        display: block;
+    }
+    .fd-card__header-title{
+        display: none;
+    }
+    .benefit-cards {
+        margin-top: -18rem;
+    }
+    .benifit-card-item .card {
+        margin: -7px 10px 15px -52px;
+    }
+    .student-story-card{
+        margin-left: -3rem;
+    }
+    .carousel-x-small {
+        margin: 25rem auto;
+    }
+    .benefit-cards {
+        margin-top: -25rem;
+    }
+}
+
+@media screen and (max-width: 393px) and (min-width: 220px){
+
+    
+    .home-hero {
+        width: 0%;
+        margin-left: -3rem;
+        height: 17rem;
+    }
+
+    .carousel-inner {
+        background: radial-gradient(circle,#0a2a37 0,#030b0e 100%);
+    }
+    .all-hero-content {
+        position: relative;
+        top: -9rem;
+        zoom: 82%;
+        margin-left: 1rem;
+        text-align: center;
+    }
+    .hero-title p {
+        font-size: 30px;
+        margin: -28.5% 0% 0% -2%;
+    }
+
+    .hero-pragraf p {
+        font-size: 19px;
+        line-height: 35px;
+        width: 90%;
+        margin: 6.5% 0% 0% -36%;
+    }
+
+    .hero-pragraf{
+        margin-left: 12rem;
+        width: 100%;
+    }
+    .hero-btn button {
+       
+        width: 27.75rem;
+        margin: 2% 0% 0% -1%;
+        font-size: 1.5rem;
+    }
+    .hero-pragraf-und-btn, .her-partner-list{
+        display: none;
+    }
+    .tables {
+        margin: -19.8rem 1.9rem;
+        zoom: 90%;
+    }
+    .comparison-chart{
+        margin-top: 19rem;
+    }
+    .comparison-chart .title {
+        margin-top: -431px;
+        margin-right: 2rem;
+        zoom: 78%;
+    }
+
+    .hidden-md-up{
+        display: block;
+    }
+    .schools-up{
+        display: block;
+    }
+    .school-header{
+        display: none;
+    }
+    .benifit-card-item .card {
+        width: 18.75rem;
+    }
+    .benfit-card-ul {
+        margin-left: 9rem;
+    }
+    .student-stories ul li {
+        width: 59.20339%;
+    }
+    .student-story-card .card {
+        margin-top: 2rem;
+        margin-right: -2.5rem;
+        width: 21.5rem;
+        height: 22.5rem;
+    }
+    .carousel-x-small {
+        margin: 19rem auto;
+    }
+    .carousel-featured-nanodegrees .schools-up {
+        padding-left: 0;
+        position: relative;
+    }
+    .carousel-featured-nanodegrees .schools-up .school-up {
+        list-style: none;
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile {
+        padding: .75rem .875rem;
+        text-transform: uppercase;
+        border-bottom: .0625rem solid #c8cdd2;
+        position: relative;
+        margin-bottom: 0;
+        font-size: .875rem;
+        letter-spacing: .0475rem;
+        line-height: 1.1875rem;
+    }
+    .carousel-featured-nanodegrees .schools-up .school__title-mobile:after {
+        content: "+";
+        color: #02b3e4;
+        display: block;
+        position: absolute;
+        font-size: 1.6875rem;
+        top: .75rem;
+        right: 24px;
+        font-weight: 400;
+        transition: all .3s ease;
+    }
+    .schools-header{
+        display: none !important;
+    }
+    .cards {
+        display: block;
+        margin-top: 1rem;
+        margin-left: 3.5rem;
+    }
+    .fd-card__header {
+        padding: 3rem 1.5rem;
+    }
+    .school-up{
+        display: block;
+    }
+    .carousel-up{
+        display: block;
+    }
+    .fd-card__header-title{
+        display: none;
+    }
+    .benefit-cards {
+        margin-top: -18rem;
+    }
+    .benifit-card-item .card {
+        margin: -7px 10px 15px -97px;
+    }
+    .student-story-card{
+        margin-left: -4rem;
+    }
+}

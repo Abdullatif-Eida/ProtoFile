@@ -1,0 +1,268 @@
+@media screen and (max-width: 1400px) and (min-width: 982px)  {
+    .contentful-hero-section {
+        padding: 0 0 20px;
+        position: relative;
+        left: 0rem;
+    }
+        .contentful-hero-section .contentful-hero.contain {
+            padding: 0;
+            overflow: hidden;
+            position: sticky;
+        }
+       
+
+}
+
+@media screen and (max-width: 980px) and (min-width: 220px)  {
+    
+
+    .image-snap-nav {
+        position: relative;
+        top: 2.5rem;
+        left: 1rem;
+    }
+    .header-logo-mob2 {
+        float: left;
+        display: block;
+        margin-right: .84034%;
+        width: 20.16807%;
+        position: relative;
+        top: -7%;
+        left: 48%;
+        transform: translateY(-10%);
+    }
+
+    .contentful-hero-section {
+        padding: 0 0 20px;
+        position: relative;
+        left: -4.5rem;
+    }
+
+    .contentful-hero-section .contentful-hero.contain {
+        padding: 0;
+        overflow: hidden;
+        position: sticky;
+    }
+    .contentful-hero-section .flag.flag--white {
+        border-top-color: #fff;
+        border-left-color: #fff;
+    }
+    .contentful-hero-section .flag {
+        position: absolute;
+        top: 0;
+        border-width: 60px;
+    }
+    .contentful-hero-section .flag h6 {
+        top: -40px;
+        left: -40px;
+    }
+    .contentful-hero-section .promo-message {
+        top: 0;
+        right: .625rem;
+    }
+    .contentful-hero-section .promo-message img {
+        width: 9.375rem;
+        height: 9.375rem;
+    }
+    .contentful-hero-section .hero-bg {
+        height: 624px;
+        position: relative;
+    }
+    .contentful-hero-section .overlay {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        z-index: 1001;
+    }
+    .contentful-hero-section .content .btn_wrapper {
+        flex-direction: row;
+    }
+    .contentful-hero-section .btn {
+        display: inline-block;
+        margin: 0 .35rem;
+    }
+    .countdown ul {
+        display: flex;
+        margin: 0 5rem;
+        max-width: 22rem;
+        align-items: center;
+        justify-content: space-between;
+        list-style: none;
+        padding-left: 0;
+    }
+    .countdown ul li {
+        font-size: 1rem;
+        line-height: 28px;
+    }
+    .contentful-hero-section .content button.play-video {
+        display: none;
+        margin-top: 1rem;
+        display: inline-block;
+        border: 0 transparent;
+        background: none;
+        outline: none;
+        transition: transform .3s ease;
+    }
+    .advantage-banner__features {
+        margin-left: 12rem;
+    }
+    .degree-syllabus-preview__stat {
+        width: 55.20339%;
+        margin-left: 8%;
+        margin-top: -104px;
+        margin-bottom: 2rem;
+    }
+}
+@media screen and (max-width: 915px) and (min-width: 320px)  {
+
+    .degree-instructors-section .card {
+        height: 569px;
+    }
+    .advantage-banner__features {
+        margin-left: 6rem;
+    }
+
+}
+
+@media screen and (max-width: 791px) and (min-width: 320px)  {
+    .contentful-hero-section .promo-message {
+        top: 0;
+        right: .025rem;
+    }
+
+    .contentful-hero-section .promo-message img {
+        width: 7.375rem;
+        height: 7.375rem;
+    }
+    .contentful-hero-section .button.hide-on-mobile {
+        display: none;
+    }
+    .countdown ul {
+        margin: 0px 2rem;
+    }
+    .degree-info-columns ul.column-list {
+        display: grid;
+    }
+    .degree-info-columns ul.column-list>li {
+        width: 289.72881%;
+        margin-bottom: 20px;
+        margin-left: -15rem;
+    }
+    .degree-syllabus .cards_contain__header--ctas .button {
+        margin-left: -6rem;
+    }
+    .degree-syllabus .cards_contain__header {
+        margin-left: 1rem;
+    }
+
+    .degree-syllabus .nd-syllabus-term__header__content {
+        padding: 37px 3.75rem 0;
+
+    }
+    .degree-syllabus .nd-syllabus-term__cards h2 {
+        position: relative;
+        top: 0.8rem;
+    }
+    .degree-syllabus-preview__content {
+        width: 67.62712%;
+    }
+    .degree-syllabus .nd-syllabus-term__header__content--details {
+        margin: -16px auto;
+    }
+    
+}
+@media screen and (max-width: 697px) and (min-width: 320px)  {
+
+
+.countdown ul li {
+    margin-right: 38px;
+}
+.countdown ul {
+    margin: 0px 3.5rem;
+}
+.degree-instructors-section .card {
+    height: 675px;
+}
+.advantage-banner__features {
+    margin-left: 3rem;
+}
+
+}
+@media screen and (max-width: 600px) and (min-width: 320px)  {
+
+
+    .countdown ul li {
+        margin-right: 38px;
+    }
+    .countdown ul {
+        margin: 0px 3.5rem;
+    }
+    .degree-instructors-section .card {
+        height: 675px;
+    }
+    .advantage-banner__features {
+        margin-left: 3rem;
+    }
+    
+    .horizontal-scroller .scroller--inactive {
+        max-width: 168%;
+        display: contents;
+        justify-content: center;
+    }
+    .degree-instructors-section .card {
+        height: 499px;
+    }
+
+    .degree-info-columns ul.column-list>li {
+        margin-left: -8rem;
+    }
+    .degree-syllabus-preview__stat {
+        width: 94.20339%;
+    }
+    .degree-syllabus .nd-syllabus-term__header__image {
+        display: none;
+    }
+    .degree-syllabus .nd-syllabus-term__header__content:last-child {
+        width: 101.62712%;
+    }
+    .degree-syllabus-preview__content {
+        width: 109.62712%;
+    }
+    .advantage-banner__features .feature-card__bg {
+      display: none;
+    }
+    .advantage-banner__features {
+        margin-left: 6rem;
+    }
+}
+
+@media screen and (max-width: 600px) and (min-width: 320px)  {
+
+
+    .countdown ul li {
+        margin-right: 38px;
+    }
+    .countdown ul {
+        margin: 0px -1rem;
+    }
+
+}
+
+@media screen and (max-width: 451px) and (min-width: 220px)  {
+
+
+    .contentful-hero-section {
+        padding: 0 0 20px;
+        position: relative;
+        left: -1.5rem;
+    }
+    .degree-info-columns ul.column-list>li {
+        margin-left: 1rem;
+    }
+    .advantage-banner__features {
+        margin-left: 4rem;
+    }
+
+}

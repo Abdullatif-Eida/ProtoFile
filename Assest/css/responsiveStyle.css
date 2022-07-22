@@ -1,0 +1,473 @@
+@media screen and (max-width: 980px) and (min-width: 461px){
+
+
+    .nav-me {
+        display: none;
+    }
+/* The overlay-nav (background) */
+.overlay-nav-nav {
+    height: 100%;
+    width: 0;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.9); 
+    overflow-x: hidden; 
+    transition: 0.5s; 
+  }
+  
+
+  .overlay-nav-content {
+    position: relative;
+    top: 25%; 
+    width: 100%; 
+    text-align: center; 
+    margin-top: 30px; 
+  }
+  
+  /* The navigation links inside the overlay-nav */
+  .overlay-nav a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block; 
+    transition: 0.3s; 
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .overlay-nav a:hover, .overlay-nav a:focus {
+    color: #f1f1f1;
+  }
+  
+  /* Position the close button (top right corner) */
+  .overlay-nav .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+  }
+  .overlay-nav-content{
+    display: block;
+  }
+  .closebtn{
+    display: block;
+  }
+  .image-snap-nav{
+    display: block;
+  }
+  
+     .header-logo-mob {
+        height: 83px;
+        display: block;
+        background-color: #1c262f;
+        width: 15rem;
+        position: relative;
+        left: -1rem;
+        top: -1rem;
+    }
+    .header-logo-mob img {
+        margin: -6% 0% 0% 7%
+    }
+    .header-logo-mob2 {
+        float: left;
+        display: block;
+        margin-right: .84034%;
+        width: 20.16807%;
+        position: relative;
+        top: -79%;
+        left: 48%;
+        transform: translateY(-10%);
+    }
+
+    .title-phone{
+        display: block;
+    }
+    .title-pc{
+        display: none;
+    }
+    .nav-footer-col {
+        box-shadow: 12px 16px 20px 0 rgba(46,61,73,.2);
+        background: #fff;
+    }
+    .nav-footer-col p {
+        font-size: .8125rem;
+        line-height: 1.5rem;
+        letter-spacing: .125rem;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #7d97ad;
+        padding: .75rem 1.5rem;
+        margin-bottom: 0;
+        position: relative;
+    }
+
+    .nav-footer-col p::after {
+        content: "+";
+        opacity: .3;
+        color: #2e3d49;
+        display: block;
+        position: absolute;
+        font-size: 1.25rem;
+        top: .75rem;
+        right: 1.5rem;
+        font-weight: 400;
+        transition: all .3s ease;
+    }
+    .nav-footer-col ul {
+        padding-left: 0;
+        margin: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .3s ease;
+    }
+
+    .nav-footer-col li {
+        font-size: .8125rem;
+        line-height: 1.5rem;
+        display: block;
+    }
+
+    .nav-footer-col ul>li a {
+        margin-top: 0;
+        margin-bottom: 4px;
+        width: 100%;
+        height: 100%;
+        display: block;
+        font-size: .8125rem;
+        line-height: 1.25rem;
+        padding: .25rem 24px;
+    }
+
+    .nav-footer{
+        display: block;
+        justify-content: space-between;
+      }
+      .nav-footer-col .nav--on>ul {
+        max-height: none;
+     }
+     .secondary-footer {
+        max-width: 73.75rem;
+        margin: 78px auto;
+        padding-top: 2.25rem;
+        border-top: 1px solid #dbe2e8;
+    }
+    .secondary-footer ul {
+        margin-bottom: 0!important;
+    }
+    .fineprint li:first-child {
+        margin-left: 179px;
+    }
+    .secondary-footer p, .footer__secondary a{
+        font-size: .8125rem;
+        line-height: 1.5rem;
+    }
+    .fineprint li {
+        margin-left: .5rem;
+    }
+    .hidden-sm-down {
+        display: none!important;
+    }
+    .secondary-footer>div{
+        text-align: center;
+        margin-top: -1.5rem;
+    }
+    .secondary-footer>div ul {
+        display: inline-block;
+    }
+    .social>li {
+        display: inline-block;
+        margin-right: .75rem;
+        vertical-align: top;
+        position: relative;
+        left: -8rem;
+    }
+    .social>li a {
+        height: 24px;
+        display: block;
+        opacity: .6;
+        transition: opacity .3s ease;
+    }
+    .text-center {
+        text-align: center!important;
+    }
+    p.micro {
+        font-size: .5625rem;
+        line-height: 12px;
+        width: 76%;
+        margin-left: 13rem;
+        zoom: 122%;
+    }
+    p.legible {
+        max-width: 48.75rem!important;
+    }
+    .footer-pc{
+        display: none;
+    }
+    .footer-phone{
+        display: block;
+      }
+}
+@media screen and (max-width: 460px){
+    .nav-me {
+        display: none;
+    }
+    .overlay-nav a {font-size: 20px}
+    .overlay-nav .closebtn {
+      font-size: 40px;
+      top: 15px;
+      right: 35px;
+    }
+    .overlay-nav-content{
+        display: block;
+      }
+      .closebtn{
+        display: block;
+      }
+      .image-snap-nav{
+        display: block;
+        margin-top: 1rem;
+        margin-left: 1rem;
+      }
+     .mobile-offcanvas.show{
+       visibility: visible;
+       transform: translateX(0);
+     }
+     .header-logo-mob {
+        height: 83px;
+        display: block;
+        background-color: #1c262f;
+        width: 15rem;
+        position: relative;
+        left: -1rem;
+        top: -1rem;
+    }
+    .header-logo-mob img {
+        margin: -6% 0% 0% 7%
+    }
+    .mydropdown{
+      margin-bottom: 1rem;
+    }
+    .my-btn-nav:focus{
+        background-color: #1c262f;
+        background-color: #1c262f;
+         border-color: #1c262f;
+        box-shadow: 0 0 0 0.2rem #1c262f;
+    }
+    .item-from-drop{
+        background-color: #1c262f;
+        color: white;
+    }
+    .the-drop{
+        background-color: #1c262f;
+
+    }
+    
+    .nav-btn {
+        display: block;
+        width: auto;
+        height: auto;
+        margin-left: 1.5rem;
+        margin-top: 0.8125rem;
+        margin-bottom: 1rem;
+        border-color: #02b3e4;
+        background: #02b3e4;
+        transition: opacity .25s ease,transform .25s ease;
+        border-radius: 16.5px;
+    }
+
+    .header-logo-mob2 {
+        float: left;
+        display: block;
+        margin-right: .84034%;
+        width: 20.16807%;
+        position: relative;
+        top: -37%;
+        left: 41%;
+        transform: translateY(-10%);
+    }
+    .overlay-nav-content{
+        display: block;
+      }
+      .closebtn{
+        display: block;
+      }
+      .image-snap-nav{
+        display: block;
+      }
+    .title-phone{
+        display: block;
+    }
+    .title-pc{
+        display: none;
+    }
+    .nav-footer-col {
+        box-shadow: 12px 16px 20px 0 rgba(46,61,73,.2);
+        background: #fff;
+    }
+    .nav-footer-col p {
+        font-size: .8125rem;
+        line-height: 1.5rem;
+        letter-spacing: .125rem;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #7d97ad;
+        padding: .75rem 1.5rem;
+        margin-bottom: 0;
+        position: relative;
+    }
+
+    .nav-footer-col p::after {
+        content: "+";
+        opacity: .3;
+        color: #2e3d49;
+        display: block;
+        position: absolute;
+        font-size: 1.25rem;
+        top: .75rem;
+        right: 1.5rem;
+        font-weight: 400;
+        transition: all .3s ease;
+    }
+    .nav-footer-col ul {
+        padding-left: 0;
+        margin: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .3s ease;
+    }
+
+    .nav-footer-col li {
+        font-size: .8125rem;
+        line-height: 1.5rem;
+        display: block;
+    }
+
+    .nav-footer-col ul>li a {
+        margin-top: 0;
+        margin-bottom: 4px;
+        width: 100%;
+        height: 100%;
+        display: block;
+        font-size: .8125rem;
+        line-height: 1.25rem;
+        padding: .25rem 24px;
+    }
+
+    .nav-footer{
+        display: block;
+        justify-content: space-between;
+      }
+      .nav-footer-col .nav--on>ul {
+        max-height: none;
+     }
+     .secondary-footer {
+        max-width: 73.75rem;
+        margin: 78px auto;
+        padding-top: 2.25rem;
+        border-top: 1px solid #dbe2e8;
+    }
+    .secondary-footer ul {
+        margin-bottom: 0!important;
+    }
+    .fineprint li:first-child {
+        margin-left: 179px;
+    }
+    .secondary-footer p, .footer__secondary a{
+        font-size: .8125rem;
+        line-height: 1.5rem;
+    }
+    .fineprint li {
+        margin-left: .5rem;
+    }
+    .hidden-sm-down {
+        display: none!important;
+    }
+    .secondary-footer>div{
+        text-align: center;
+        margin-top: -1.5rem;
+    }
+    .secondary-footer>div ul {
+        display: inline-block;
+    }
+    .social>li {
+        display: inline-block;
+        margin-right: .75rem;
+        vertical-align: top;
+        position: relative;
+        left: -8rem;
+    }
+    .social>li a {
+        height: 24px;
+        display: block;
+        opacity: .6;
+        transition: opacity .3s ease;
+    }
+    .text-center {
+        text-align: center!important;
+    }
+    p.micro {
+        font-size: .5625rem;
+        line-height: 12px;
+        width: 76%;
+        margin-left: 13rem;
+        zoom: 122%;
+    }
+    p.legible {
+        max-width: 48.75rem!important;
+    }
+    .footer-pc{
+        display: none;
+    }
+    .footer-phone{
+        display: block;
+      }
+}
+
+  /* The overlay-nav (background) */
+.overlay-nav {
+    height: 100%;
+    width: 0;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0, 0.9); 
+    overflow-x: hidden; 
+    transition: 0.5s; 
+  }
+  
+  /* Position the content inside the overlay-nav */
+  .overlay-nav-content {
+    position: relative;
+    top: 25%; 
+    width: 100%; 
+    text-align: center; 
+    margin-top: 30px; 
+  }
+  
+  /* The navigation links inside the overlay-nav */
+  .overlay-nav a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block; 
+    transition: 0.3s; 
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .overlay-nav a:hover, .overlay-nav a:focus {
+    color: #f1f1f1;
+  }
+  
+  /* Position the close button (top right corner) */
+  .overlay-nav .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+  }

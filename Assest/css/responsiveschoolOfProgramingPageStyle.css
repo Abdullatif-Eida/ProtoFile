@@ -1,0 +1,272 @@
+@media screen and (max-width: 980px) and (min-width: 460px){
+
+
+    .header-logo-mob2 {
+        position: relative;
+        top: 0%;
+        left: 44%;
+    }
+
+    .image-snap-nav {
+        position: relative;
+        top: 2.5rem;
+        left: 1rem;
+    }
+
+    .item__left {
+        position: relative;
+        top: 2rem;
+    }
+
+    .item__right {
+        margin-top: -14%;
+    }
+}
+
+@media screen and (max-width: 916px) and (min-width: 705px){
+
+
+    .item__left {
+        position: relative;
+        top: 3.5rem;
+        left: 1rem;
+    }
+
+    .item__right {
+        margin-top: -17%;
+    }
+}
+
+
+@media screen and (max-width: 822px) and (min-width: 705px){
+
+
+    .item__left {
+        position: relative;
+        top: 3.5rem;
+        left: 1rem;
+    }
+
+    .item__right {
+        margin-top: -17%;
+    }
+
+    .item__main {
+        width: 111%;
+    }
+}
+
+@media screen and (max-width: 757px) and (min-width: 705px){
+
+
+    .item__left {
+        position: relative;
+        top: 5rem;
+        left: 2rem;
+    }
+    
+    .item__right {
+        margin-top: -17%;
+    }
+
+    .item__main {
+        width: 111%;
+    }
+}
+
+@media screen and (max-width: 736px) and (min-width: 705px){
+
+
+    .item__left {
+        position: relative;
+        top: 5rem;
+        left: 2rem;
+    }
+    
+    .item__right {
+        margin-top: -17%;
+    }
+
+    .item__main {
+        width: 115%;
+    }
+}
+
+@media screen and (max-width: 713px) and (min-width: 705px){
+
+
+    .item__left {
+        position: relative;
+        top: 5rem;
+        left: 2rem;
+    }
+    
+    .item__right {
+        margin-top: -17%;
+    }
+
+    .item__main {
+        width: 120%;
+    }
+}
+
+@media screen and (max-width: 706px) and (min-width: 460px){
+
+
+    .item__left {
+        position: relative;
+        top: 0rem;
+        left: 3rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -28rem;
+    }
+    .item__main {
+        width: 179%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 593px) and (min-width: 460px){
+
+
+    .item__left {
+        position: relative;
+        top: 1rem;
+        left: 6rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -28rem;
+    }
+    .item__main {
+        width: 179%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 507px) and (min-width: 460px){
+
+
+    .item__left {
+        position: relative;
+        top: 2rem;
+        left: 8rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -28rem;
+    }
+    .item__main {
+        width: 179%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 479px) and (min-width: 360px){
+
+
+    .item__left {
+        position: relative;
+        top: 2rem;
+        left: 5rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -33rem;
+    }
+    .item__main {
+        width: 205%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 443px) and (min-width: 360px){
+
+
+    .item__left {
+        position: relative;
+        top: 2rem;
+        left: 7rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -25rem;
+    }
+    .item__main {
+        width: 205%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 404px) and (min-width: 360px){
+
+
+    .item__left {
+        position: relative;
+        top: 2rem;
+        left: 8rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -18rem;
+    }
+    .item__main {
+        width: 205%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 369px) and (min-width: 260px){
+
+
+    .item__left {
+        position: relative;
+        top: 4rem;
+        left: 9rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -13rem;
+    }s
+    .item__main {
+        width: 205%;
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+}
+
+@media screen and (max-width: 341px) and (min-width: 260px){
+
+
+    .item__left {
+        position: relative;
+        top: -0.1rem;
+        left: 6rem;
+    }
+    
+    .item__right {
+        margin-top: 1%;
+        margin-left: -18rem;
+    }
+    .item__main {
+        width: 246%;
+        margin-top: 2rem;
+        margin-left: 0rem;
+    }
+}
+
